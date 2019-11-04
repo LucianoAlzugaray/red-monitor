@@ -1,0 +1,16 @@
+{
+  "name": "red-monitor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "net-ping": "^1.2.3",
+    "sequelize": "^5.21.2",
+    "sqlite3": "^4.1.0"
+  }
+}
